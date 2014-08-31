@@ -4,7 +4,7 @@ This is an extension of the ideas found in [this Gist](https://gist.github.com/m
 
 ## Require.js in action
 
-- TODO: Add gif of require.js in action
+![demo](demo.gif)
 
 ## Usage
 At a REPL
